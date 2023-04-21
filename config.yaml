@@ -51,6 +51,9 @@ params:
     - icon: github
       icon_pack: fab
       url: https://github.com/hukkum
+    - icon: linkedin
+      icon_pack: fab
+      url: https://www.linkedin.com/in/subass/
     - icon: twitter
       icon_pack: fab
       url: https://twitter.com/nwanted_
