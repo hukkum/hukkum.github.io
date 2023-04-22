@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphics and Video on Subash Parajuli</title>
+    <link>/categories/graphics-and-video/</link>
+    <description>Recent content in Graphics and Video on Subash Parajuli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/graphics-and-video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Literacy Projects</title>
+      <link>/project/vizlit/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/vizlit/</guid>
+      <description>A short documentary on &amp;ldquo;Deficit Ideology&amp;rdquo;
+Presentation on Color Wheel
+An instructional video on parallel parking</description>
+    </item>
+    
+  </channel>
+</rss>

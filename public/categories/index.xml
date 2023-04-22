@@ -6,22 +6,31 @@
     <description>Recent content in Categories on Subash Parajuli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme Features</title>
-      <link>/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Learning Analytics</title>
+      <link>/categories/learning-analytics/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/categories/theme-features/</guid>
+      <guid>/categories/learning-analytics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>evergreen</title>
-      <link>/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <title>R Programming</title>
+      <link>/categories/r-programming/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/categories/evergreen/</guid>
+      <guid>/categories/r-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Programming</title>
+      <link>/categories/statistical-programming/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/statistical-programming/</guid>
       <description></description>
     </item>
     
@@ -35,15 +44,6 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>meetup</title>
       <link>/categories/meetup/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
@@ -53,11 +53,65 @@
     </item>
     
     <item>
-      <title>package</title>
-      <link>/categories/package/</link>
+      <title>Elearning</title>
+      <link>/categories/elearning/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/package/</guid>
+      <guid>/categories/elearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact</title>
+      <link>/categories/impact/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technolgy Tranformation</title>
+      <link>/categories/technolgy-tranformation/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/technolgy-tranformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gestalt</title>
+      <link>/categories/gestalt/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gestalt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphics and Video</title>
+      <link>/categories/graphics-and-video/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/graphics-and-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructional Design</title>
+      <link>/categories/instructional-design/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/instructional-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Literacy</title>
+      <link>/categories/visual-literacy/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/visual-literacy/</guid>
       <description></description>
     </item>
     
