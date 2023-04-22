@@ -40,12 +40,11 @@ params:
   mainSections:
     - blog
     - project
-    - talk
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal: Falcon INC.
+  orgName: Subash Parajuli,
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
@@ -84,10 +83,6 @@ menu:
       title: License
       url: /license/
       weight: 1
-    - name: Contact
-      title: Contact form
-      url: /contact/
-      weight: 2
     - name: Contributors
       title: Contributors
       url: /contributors/
@@ -105,18 +100,10 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
+    - name: Contact
+      title: Contact form
+      url: /contact/
       weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
 privacy:
   disqus:
     disable: no
