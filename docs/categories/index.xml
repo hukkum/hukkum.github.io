@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Subash Parajuli</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Subash Parajuli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Analytics</title>
+      <link>/categories/learning-analytics/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/learning-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Programming</title>
+      <link>/categories/r-programming/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/r-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Programming</title>
+      <link>/categories/statistical-programming/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/statistical-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>/categories/workshop/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetup</title>
+      <link>/categories/meetup/</link>
+      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/categories/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elearning</title>
+      <link>/categories/elearning/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/elearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact</title>
+      <link>/categories/impact/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technolgy Tranformation</title>
+      <link>/categories/technolgy-tranformation/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/technolgy-tranformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gestalt</title>
+      <link>/categories/gestalt/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gestalt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphics and Video</title>
+      <link>/categories/graphics-and-video/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/graphics-and-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructional Design</title>
+      <link>/categories/instructional-design/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/instructional-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Literacy</title>
+      <link>/categories/visual-literacy/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/visual-literacy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
