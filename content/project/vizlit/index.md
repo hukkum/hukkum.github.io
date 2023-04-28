@@ -7,21 +7,14 @@ categories:
 - Gestalt
 date: "2019-07-02"
 draft: false
-excerpt: "Portfolio showcase of my mini amd major projects done for Visual Literacy Class in Spring 2022. **Cover image: Analemma Animation deisgned in Photoshop**"
+excerpt: "Portfolio showcase of my mini amd major projects done for Visual Literacy Class in Spring 2022."
 featured: true
 layout: single-sidebar
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: newspaper
-  icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 subtitle: ""
 tags:
-- visual literacy design
+- Visual Literacy
+- Instructional Design
+
 title: Visual Literacy Projects
 ---
 

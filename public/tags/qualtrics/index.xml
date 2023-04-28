@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qualtrics on Subash Parajuli</title>
+    <link>/tags/qualtrics/</link>
+    <description>Recent content in Qualtrics on Subash Parajuli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/qualtrics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instructional Technology</title>
+      <link>/project/canvas/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/canvas/</guid>
+      <description>Here are a few support resources and materials I developed during my tenure as an Instructional Technology Trainer.</description>
+    </item>
+    
+  </channel>
+</rss>

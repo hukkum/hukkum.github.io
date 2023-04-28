@@ -35,6 +35,33 @@
     </item>
     
     <item>
+      <title>Elearning</title>
+      <link>/categories/elearning/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/elearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact</title>
+      <link>/categories/impact/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructional Technology</title>
+      <link>/categories/instructional-technology/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/instructional-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>workshop</title>
       <link>/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
@@ -49,24 +76,6 @@
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
       
       <guid>/categories/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elearning</title>
-      <link>/categories/elearning/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/elearning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact</title>
-      <link>/categories/impact/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/impact/</guid>
       <description></description>
     </item>
     

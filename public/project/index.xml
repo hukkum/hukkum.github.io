@@ -13,16 +13,16 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/project/quantr/</guid>
-      <description>Quantitative Methods using R This book covers practical worked out examples which you can easily apply to your data set and also includes a discussion on how the example is working. We will cover descriptive and basic inferential statistics, including graphs, frequency distributions, central tendency, dispersion, probability, hypothesis testing, tests of mean differences, correlation, simple regression, and chi-square tests. This book is designed to facilitate graduate students of Educational Psychology to develop their knowledge and understanding of various statistical concepts and procedures in R programming as a supplement resource.</description>
+      <description>Quantitative Methods using RThis book covers practical worked out examples which you can easily apply to your data set and also includes a discussion on how the example is working. We will cover descriptive and basic inferential statistics, including graphs, frequency distributions, central tendency, dispersion, probability, hypothesis testing, tests of mean differences, correlation, simple regression, and chi-square tests. This book is designed to facilitate graduate students of Educational Psychology to develop their knowledge and understanding of various statistical concepts and procedures in R programming as a supplement resource.</description>
     </item>
     
     <item>
-      <title>Canvas Examples</title>
+      <title>Instructional Technology</title>
       <link>/project/canvas/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/project/canvas/</guid>
-      <description>Here are a few of my Canvas works.</description>
+      <description>Here are a few support resources and materials I developed during my tenure as an Instructional Technology Trainer.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/project/giraffes/</guid>
-      <description> Sukarmi is a student lead project. More details coming soom.
+      <description>Sukarmi is a student lead project. More details coming soom.
 // set your custom colors here $siteBgColorCustom: #e3e3da; $sidebarBgColorCustom: #dbdbd2; $textColorCustom: #666260; $sidebarTextColorCustom: #666260; $headingColorCustom: #103742; $bodyLinkColorCustom: #c4001a; $navLinkColorCustom: #c4001a; $sidebarLinkColorCustom: #c4001a; $footerTextColorCustom: #918f8d; $buttonTextColorCustom: #f7f7f4; $buttonHoverTextColorCustom: #f9f9f8; $buttonBgColorCustom: #103742; $buttonHoverBgColorCustom: #c4001a; $borderColorCustom: #c4beb9; </description>
     </item>
     

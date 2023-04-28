@@ -17,20 +17,29 @@
     </item>
     
     <item>
-      <title>Canvas LMS</title>
-      <link>/tags/canvas-lms/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Canvas</title>
+      <link>/tags/canvas/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/canvas-lms/</guid>
+      <guid>/tags/canvas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>/tags/design/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>MyMedia</title>
+      <link>/tags/mymedia/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/design/</guid>
+      <guid>/tags/mymedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualtrics</title>
+      <link>/tags/qualtrics/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/qualtrics/</guid>
       <description></description>
     </item>
     
