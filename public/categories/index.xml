@@ -62,6 +62,24 @@
     </item>
     
     <item>
+      <title>Blockchain</title>
+      <link>/categories/blockchain/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education Data</title>
+      <link>/categories/education-data/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/education-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>workshop</title>
       <link>/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
@@ -80,11 +98,29 @@
     </item>
     
     <item>
-      <title>Technolgy Tranformation</title>
-      <link>/categories/technolgy-tranformation/</link>
+      <title>Technolgy Transformation</title>
+      <link>/categories/technolgy-transformation/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/technolgy-tranformation/</guid>
+      <guid>/categories/technolgy-transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Transformation</title>
+      <link>/categories/technology-transformation/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/technology-transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>/categories/web-design/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/web-design/</guid>
       <description></description>
     </item>
     

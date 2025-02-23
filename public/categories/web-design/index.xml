@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on Subash Parajuli</title>
+    <link>/categories/web-design/</link>
+    <description>Recent content in Web Design on Subash Parajuli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power BI and Data</title>
+      <link>/project/powerbi/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/powerbi/</guid>
+      <description>Few of the dashboards and analytics tools we worked on to inform the ITSM and technology trends in R1 universities. What problem are you trying to solve using technology ? Let&amp;rsquo;s discuss.
+Portfolio ITSM Dashboard Template Visit App
+This app was designed as a part to continuously monitor the KPI metrics</description>
+    </item>
+    
+    <item>
+      <title>Webfolio</title>
+      <link>/project/websites/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/websites/</guid>
+      <description>Affordable web design and web app services to emerging businesses and professionals to help them reach their audience. Below are a few of the websites I&amp;rsquo;ve designed. If you&amp;rsquo;re looking for web design services, please feel free to contact me for a free quote. What problem are you trying to solve using technology ? Let&amp;rsquo;s discuss.
+Portfolio Egyanship.com Visit Website
+An online learning company.
+Innovativepalia Visit Website
+A teacher training company run in Nepal.</description>
+    </item>
+    
+  </channel>
+</rss>

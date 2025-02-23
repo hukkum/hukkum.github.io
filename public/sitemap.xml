@@ -77,6 +77,36 @@
     <loc>/tags/qualtrics/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/blockchain/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/blockchain-in-education/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/blog-1/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/analytics/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/education-data/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/education-data/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/elearning/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/color-themes/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -98,13 +128,22 @@
     <loc>/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
+    <loc>/project/powerbi/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/student/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/giraffes/</loc>
+    <loc>/categories/technolgy-transformation/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/technolgy-tranformation/</loc>
+    <loc>/categories/technology-transformation/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/web-design/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/websites/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/gestalt/</loc>
@@ -113,13 +152,16 @@
     <loc>/categories/graphics-and-video/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/instructional-design/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/instructional-design/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/visual-literacy/</loc>
+    <loc>/tags/visual-literacy/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/visual-literacy-design/</loc>
+    <loc>/categories/visual-literacy/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/vizlit/</loc>
@@ -139,8 +181,6 @@
     <loc>/contributors/</loc>
   </url><url>
     <loc>/license/</loc>
-  </url><url>
-    <loc>/blog/</loc>
   </url><url>
     <loc>/series/</loc>
   </url><url>

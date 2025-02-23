@@ -13,7 +13,7 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/project/quantr/</guid>
-      <description>Quantitative Methods using RThis book covers practical worked out examples which you can easily apply to your data set and also includes a discussion on how the example is working. We will cover descriptive and basic inferential statistics, including graphs, frequency distributions, central tendency, dispersion, probability, hypothesis testing, tests of mean differences, correlation, simple regression, and chi-square tests. This book is designed to facilitate graduate students of Educational Psychology to develop their knowledge and understanding of various statistical concepts and procedures in R programming as a supplement resource.</description>
+      <description>Quantitative Methods using R This book covers practical worked out examples which you can easily apply to your data set and also includes a discussion on how the example is working. We will cover descriptive and basic inferential statistics, including graphs, frequency distributions, central tendency, dispersion, probability, hypothesis testing, tests of mean differences, correlation, simple regression, and chi-square tests. This book is designed to facilitate graduate students of Educational Psychology to develop their knowledge and understanding of various statistical concepts and procedures in R programming as a supplement resource.</description>
     </item>
     
     <item>
@@ -22,17 +22,32 @@
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/project/canvas/</guid>
-      <description>Here are a few support resources and materials I developed during my tenure as an Instructional Technology Trainer.</description>
+      <description>Here are a few support resources and materials I developed during my tenure as an Instructional Technology Trainer.
+A short tutorial to create triggers in Qualtrics - A short screencast of Canvas Orientation Course for Faculty </description>
     </item>
     
     <item>
-      <title>Sukarmi</title>
-      <link>/project/giraffes/</link>
+      <title>Power BI and Data</title>
+      <link>/project/powerbi/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/giraffes/</guid>
-      <description>Sukarmi is a student lead project. More details coming soom.
-// set your custom colors here $siteBgColorCustom: #e3e3da; $sidebarBgColorCustom: #dbdbd2; $textColorCustom: #666260; $sidebarTextColorCustom: #666260; $headingColorCustom: #103742; $bodyLinkColorCustom: #c4001a; $navLinkColorCustom: #c4001a; $sidebarLinkColorCustom: #c4001a; $footerTextColorCustom: #918f8d; $buttonTextColorCustom: #f7f7f4; $buttonHoverTextColorCustom: #f9f9f8; $buttonBgColorCustom: #103742; $buttonHoverBgColorCustom: #c4001a; $borderColorCustom: #c4beb9; </description>
+      <guid>/project/powerbi/</guid>
+      <description>Few of the dashboards and analytics tools we worked on to inform the ITSM and technology trends in R1 universities. What problem are you trying to solve using technology ? Let&amp;rsquo;s discuss.
+Portfolio ITSM Dashboard Template Visit App
+This app was designed as a part to continuously monitor the KPI metrics</description>
+    </item>
+    
+    <item>
+      <title>Webfolio</title>
+      <link>/project/websites/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/websites/</guid>
+      <description>Affordable web design and web app services to emerging businesses and professionals to help them reach their audience. Below are a few of the websites I&amp;rsquo;ve designed. If you&amp;rsquo;re looking for web design services, please feel free to contact me for a free quote. What problem are you trying to solve using technology ? Let&amp;rsquo;s discuss.
+Portfolio Egyanship.com Visit Website
+An online learning company.
+Innovativepalia Visit Website
+A teacher training company run in Nepal.</description>
     </item>
     
     <item>
