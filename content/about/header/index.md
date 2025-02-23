@@ -6,4 +6,4 @@ headline: |
   Hello. Nice to meet you.
 ---
 <!-- this is a subheadline -->
-**With a unique blend of skills in instructional design, statistical programming, quantitative analysis, and engineering, I strive to improve educational outcomes and create engaging, accessible learning experience.**
+**With a unique blend of skills in instructional design, statistical programming, quantitative analysis, and engineering, I strive to improve key performance outcomes and create engaging, accessible experience for every stakeholder.**

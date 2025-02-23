@@ -43,8 +43,8 @@ params:
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Falcon INC.
-  orgName: Subash Parajuli,
+  orgLocal: 
+  orgName: Subash Parajuli
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
