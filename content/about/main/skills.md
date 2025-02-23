@@ -2,7 +2,7 @@
 title: "Skills"
 description: "My skillset"
 type: panelset
-linktitle: Skills
+link title: Skills
 menu:
   main:
     weight: 40

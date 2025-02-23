@@ -12,6 +12,7 @@ tags:
   - Teaching
 categories:
   - Education Data
+  - E Learning
 # layout options: single, single-sidebar
 layout: single
 editor_options: 
@@ -19,18 +20,19 @@ editor_options:
     wrap: 72
 ---
 
-Introduction:
 
-The advent of digital technologies and data-driven decision making has
-significantly impacted the education sector. One such innovation is
-teaching analytics, which involves collecting, analyzing, and
-interpreting data to enhance teaching and learning experiences. A
-teacher dashboard is a vital component of teaching analytics, providing
-educators with an accessible and user-friendly interface for monitoring
-student performance, engagement, and other essential metrics. In this
-article, we will explore the concept of teaching analytics and the
-benefits of using teacher dashboards to support data-informed decision
-making in the classroom.
+![](analytics.jpg)
+
+The advent of digital technologies and data-driven
+decision making has significantly impacted the education sector. One
+such innovation is teaching analytics, which involves collecting,
+analyzing, and interpreting data to enhance teaching and learning
+experiences. A teacher dashboard is a vital component of teaching
+analytics, providing educators with an accessible and user-friendly
+interface for monitoring student performance, engagement, and other
+essential metrics. In this article, we will explore the concept of
+teaching analytics and the benefits of using teacher dashboards to
+support data-informed decision making in the classroom.
 
 ### Understanding Teaching Analytics
 
@@ -51,7 +53,7 @@ allowing educators to gain a comprehensive understanding of their
 students' progress and performance. Teacher dashboards can display
 various types of data, including:
 
-### Student performance on assessments and assignments 
+### Student performance on assessments and assignments
 
 Attendance and engagement metrics Progress toward learning objectives
 and goals Comparisons of individual student performance against class or

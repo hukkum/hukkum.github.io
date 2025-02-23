@@ -17,11 +17,11 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Subash
-  description: "I am grateful you are here."
+  description: "Often, I like to reflect upon universe, the mind, and question one's existence. I explore innovative ways to add value to human lives while staying at the edge of technology.<p>My interests extend into exploring <strong>non duality, oneness, consciousness</strong> and spirituality—merging ancient wisdom with modern tech insights.</p>"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: Just a Random Sidebar
+  title: I am grateful you are here.
 thumbnail_left: true
 title: My Blog
 ---

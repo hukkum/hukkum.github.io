@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Subash Parajuli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Analysis</title>
+      <link>/tags/data-analysis/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerBI</title>
+      <link>/tags/powerbi/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualtrics</title>
+      <link>/tags/qualtrics/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/qualtrics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo-site</title>
       <link>/tags/hugo-site/</link>
@@ -31,15 +58,6 @@
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/mymedia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qualtrics</title>
-      <link>/tags/qualtrics/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/qualtrics/</guid>
       <description></description>
     </item>
     
@@ -94,6 +112,15 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Dev, Web Design, Django, Wordpress, Python, R, Rust</title>
+      <link>/tags/web-dev-web-design-django-wordpress-python-r-rust/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-dev-web-design-django-wordpress-python-r-rust/</guid>
       <description></description>
     </item>
     

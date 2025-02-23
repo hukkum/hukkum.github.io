@@ -6,7 +6,34 @@
     <description>Recent content in Categories on Subash Parajuli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI in Education</title>
+      <link>/categories/ai-in-education/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ai-in-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructional Technology</title>
+      <link>/categories/instructional-technology/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/instructional-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/categories/research/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Learning Analytics</title>
       <link>/categories/learning-analytics/</link>
@@ -53,20 +80,20 @@
     </item>
     
     <item>
-      <title>Instructional Technology</title>
-      <link>/categories/instructional-technology/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/instructional-technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blockchain</title>
       <link>/categories/blockchain/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Learning</title>
+      <link>/categories/e-learning/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/e-learning/</guid>
       <description></description>
     </item>
     
@@ -98,15 +125,6 @@
     </item>
     
     <item>
-      <title>Technolgy Transformation</title>
-      <link>/categories/technolgy-transformation/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/technolgy-transformation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Technology Transformation</title>
       <link>/categories/technology-transformation/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
@@ -121,6 +139,15 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/web-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/categories/web-development/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/web-development/</guid>
       <description></description>
     </item>
     

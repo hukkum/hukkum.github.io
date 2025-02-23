@@ -12,9 +12,12 @@ When I'm not working on data analysis or designing educational materials, I enjo
 Feel free to take a look at my **[portfolio](/project)**, my **[resume](https://github.com/hukkum/hukkum.github.io/blob/main/files/cvweb.pdf)** to learn more about me and my work, or **[contact me](/contact)** if you have any questions or opportunities to collaborate. <br><br>
 
 <h3>What I am pondering upon nowadays?</h3>
+- Spirituality and Brain<br>
 - Blockchain in Education <br>
+- AI in Education<br>
+- Solana Development<br>
 - Structural Equational Modelling Using lavaan Package<br>
-- MOOCs<br>
+- MOOCs / Open Learning<br>
 "
 ---
 

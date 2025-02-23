@@ -2,14 +2,16 @@
 author: Subash P
 categories:
 - Web Design
-- Technolgy Transformation
+- Technology Transformation
 - Impact
+- Web Development
 date: "2019-07-03"
 draft: false
-excerpt: My portfolio of wesbites I worked on.  
+excerpt: My portfolio of websites I worked on.  
 layout: single
-subtitle:  My portfolio of wesbites I worked on.   
-tags:
+subtitle:  My portfolio of websites I worked on.   
+tags: 
+- Web Dev, Web Design, Django, Wordpress, Python, R, Rust
 - student
 title: Webfolio
 links:
@@ -20,8 +22,8 @@ links:
   
 - icon: github
   icon_pack: fab
-  name: code
-  url: #
+  name: Github
+  url: https://github.com/hukkum
 ---
 
 Affordable web design and web app services to emerging businesses and professionals to help them reach their audience. Below are a few of the websites I've designed. If you're looking for web design services, please feel free to contact me for a free quote.
@@ -75,7 +77,7 @@ Affordable web design and web app services to emerging businesses and profession
 ---
 
 ### Savingasnadtax.com  
-[![Screenshot of Savingsandtax.com](savingsandtax.png)](https://savingsandtax.com)  
+[![Screenshot of Savingsandtax.com](savingsandtax.gif)](https://savingsandtax.com)  
 **[Visit Website](https://savingsandtax.com)**  
 *A financial education company.*
 
@@ -88,14 +90,14 @@ Affordable web design and web app services to emerging businesses and profession
 ---
 
 ### JAMWAT.org  
-[![Screenshot of JAMWAT.org](featured-hex.png)](https://jamwat.org)  
+[![Screenshot of JAMWAT.org](jamawat.webp)](https://jamwat.org)  
 **[Visit Website](https://jamwat.org)**  
 *An online community (Coming soon).*
 
 ---
 
 ### Kathaexpress.com  
-[![Screenshot of Kathaexpress.com](featured-hex.png)](https://kathaexpress.com)  
+[![Screenshot of Kathaexpress.com](kathaexpress.png)](https://kathaexpress.com)  
 **[Visit Website](https://kathaexpress.com)**  
 *(Coming Soon).*
 

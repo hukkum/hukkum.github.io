@@ -29,11 +29,38 @@
     <loc>/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/ai-in-education/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/data-analysis/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/blog-2/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/instructional-technology/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/powerbi/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/qualtrics/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/research/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/hugo-site/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
@@ -53,9 +80,6 @@
     <loc>/categories/statistical-programming/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/canvas/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -65,16 +89,10 @@
     <loc>/categories/impact/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/instructional-technology/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/canvas/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/mymedia/</loc>
-    <lastmod>2022-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/qualtrics/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/blockchain/</loc>
@@ -86,10 +104,10 @@
     <loc>/blog/blog-1/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/analytics/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/e-learning/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/education-data/</loc>
@@ -134,13 +152,16 @@
     <loc>/tags/student/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/technolgy-transformation/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/technology-transformation/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/web-design/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/web-dev-web-design-django-wordpress-python-r-rust/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/web-development/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/websites/</loc>
